@@ -1,0 +1,42 @@
+Sagar is developing a bit manipulation machine, so he wants to find longest distance between two consecutive 1's in the binary representation of the given number
+If there aren't two consecutive 1's, return 0.
+
+Input Description:
+n an integer
+
+Output Description:
+longest distance between two consecutive 1's in the binary representation of n
+
+Sample Input:
+12
+
+Sample Output:
+1
+
+Explanation:
+the binary representation of 12 is 1100,
+so the lonest distance between two consecutive 1's is 1
+
+Sample Input:
+8
+
+Sample Output:
+0
+
+Sample Input:
+34
+
+Sample Output:
+4
+
+Sample Input:
+21
+
+Sample Output:
+2
+
+Sample Input:
+77
+
+Sample Output:
+3
